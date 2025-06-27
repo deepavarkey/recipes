@@ -4,4 +4,5 @@
 * lime
 * salt
 ## Instructions
-* peel avo
+* peel avo and put in bowl
+
